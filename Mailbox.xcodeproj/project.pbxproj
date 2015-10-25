@@ -15,6 +15,7 @@
 		D12D7E911BD95ECC005A9949 /* MailboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D12D7E901BD95ECC005A9949 /* MailboxTests.swift */; };
 		D12D7E9C1BD95ECC005A9949 /* MailboxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D12D7E9B1BD95ECC005A9949 /* MailboxUITests.swift */; };
 		D12D7EAA1BD95FFB005A9949 /* MailboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D12D7EA91BD95FFB005A9949 /* MailboxViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		D1B2423E1BDC64D30037AE51 /* Mailbox.gif in Resources */ = {isa = PBXBuildFile; fileRef = D1B2423D1BDC64D30037AE51 /* Mailbox.gif */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D12D7E9B1BD95ECC005A9949 /* MailboxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailboxUITests.swift; sourceTree = "<group>"; };
 		D12D7E9D1BD95ECC005A9949 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D12D7EA91BD95FFB005A9949 /* MailboxViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MailboxViewController.swift; sourceTree = "<group>"; };
+		D1B2423D1BDC64D30037AE51 /* Mailbox.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Mailbox.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				D12D7EA91BD95FFB005A9949 /* MailboxViewController.swift */,
 				D12D7E7D1BD95ECC005A9949 /* ViewController.swift */,
 				D12D7E7F1BD95ECC005A9949 /* Main.storyboard */,
+				D1B2423D1BDC64D30037AE51 /* Mailbox.gif */,
 				D12D7E821BD95ECC005A9949 /* Assets.xcassets */,
 				D12D7E841BD95ECC005A9949 /* LaunchScreen.storyboard */,
 				D12D7E871BD95ECC005A9949 /* Info.plist */,
@@ -237,6 +240,7 @@
 				D12D7E861BD95ECC005A9949 /* LaunchScreen.storyboard in Resources */,
 				D12D7E831BD95ECC005A9949 /* Assets.xcassets in Resources */,
 				D12D7E811BD95ECC005A9949 /* Main.storyboard in Resources */,
+				D1B2423E1BDC64D30037AE51 /* Mailbox.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -488,6 +492,7 @@
 				D12D7EA21BD95ECC005A9949 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D12D7EA31BD95ECC005A9949 /* Build configuration list for PBXNativeTarget "MailboxTests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +501,7 @@
 				D12D7EA51BD95ECC005A9949 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D12D7EA61BD95ECC005A9949 /* Build configuration list for PBXNativeTarget "MailboxUITests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +510,7 @@
 				D12D7EA81BD95ECC005A9949 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
