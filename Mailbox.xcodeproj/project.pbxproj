@@ -50,7 +50,7 @@
 		D12D7E9B1BD95ECC005A9949 /* MailboxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailboxUITests.swift; sourceTree = "<group>"; };
 		D12D7E9D1BD95ECC005A9949 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D12D7EA91BD95FFB005A9949 /* MailboxViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MailboxViewController.swift; sourceTree = "<group>"; };
-		D1B2423D1BDC64D30037AE51 /* Mailbox.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Mailbox.gif; sourceTree = "<group>"; };
+		D1B2423D1BDC64D30037AE51 /* Mailbox.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Mailbox.gif; path = Mailbox/Mailbox.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +81,7 @@
 		D12D7E6F1BD95ECC005A9949 = {
 			isa = PBXGroup;
 			children = (
+				D1B2423D1BDC64D30037AE51 /* Mailbox.gif */,
 				D12D7E7A1BD95ECC005A9949 /* Mailbox */,
 				D12D7E8F1BD95ECC005A9949 /* MailboxTests */,
 				D12D7E9A1BD95ECC005A9949 /* MailboxUITests */,
@@ -105,7 +106,6 @@
 				D12D7EA91BD95FFB005A9949 /* MailboxViewController.swift */,
 				D12D7E7D1BD95ECC005A9949 /* ViewController.swift */,
 				D12D7E7F1BD95ECC005A9949 /* Main.storyboard */,
-				D1B2423D1BDC64D30037AE51 /* Mailbox.gif */,
 				D12D7E821BD95ECC005A9949 /* Assets.xcassets */,
 				D12D7E841BD95ECC005A9949 /* LaunchScreen.storyboard */,
 				D12D7E871BD95ECC005A9949 /* Info.plist */,
