@@ -140,7 +140,7 @@ class ViewController: UIViewController {
                 
             }else{
                 UIView.animateWithDuration(0.5, animations: {
-                    self.mainView.center.x = 600
+                    self.mainView.center.x = 620
                 })
                 
             }
